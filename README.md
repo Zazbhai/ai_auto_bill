@@ -158,7 +158,7 @@ graph TD
 ## 🌠 Connect with Creator
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=A275E3)](https://github.com/zazbhai)
-[![Telegram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white&color=A275E3)](https://t.me/Zazbhai)
+[![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white&color=A275E3)](https://t.me/Zazbhai)
 
 </div>
 
