@@ -3,7 +3,7 @@
 <!-- Enhanced Header Animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A275E3&height=190&section=header&text=AI%20BILL%20GENERATOR&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Smart%20|%20Fast%20|%20Accurate&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A275E3&center=true&vCenter=true&width=600&lines=Welcome+to+AI+Bill+Generator;Powered+by+Computer+Vision;Smart+%7C+Fast+%7C+Accurate;Made+by+Team+Z" alt="Typing SVG" />
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A275E3&center=true&vCenter=true&width=600&lines=Welcome+to+AI+Bill+Generator;Powered+by+Computer+Vision;Smart+%7C+Fast+%7C+Accurate;Made+by+Team+Z" alt="Typing SVG" />
 
