@@ -5,9 +5,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A275E3&center=true&vCenter=true&width=600&lines=Welcome+to+AI+Bill+Generator;Powered+by+Computer+Vision;Smart+%7C+Fast+%7C+Accurate;Made+by+Team+Z" alt="Typing SVG" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A275E3&center=true&vCenter=true&width=600&lines=Welcome+to+AI+Bill+Generator;Powered+by+Computer+Vision;Smart+%7C+Fast+%7C+Accurate;Made+by+Team+Z" alt="Typing SVG" />
+
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="waves"/>
 
 ![Animated Stats](https://github-stats-alpha.vercel.app/api?username=zazbhai&cc=000&tc=fff&ic=fff&bc=000)
+
 </div>
 
 <div align="center">
@@ -15,6 +18,7 @@
 </div>
 
 ## 🎮 Interactive Features
+
 <table>
 <tr>
 <td width="50%">
@@ -29,6 +33,7 @@
 </table>
 
 ## 🚀 Tech Wonderland
+
 <div align="center">
 
 ```mermaid
@@ -46,6 +51,7 @@ graph LR
 </div>
 
 ## 🎯 Installation Magic
+
 <div align="center">
 
 ```bash
@@ -68,6 +74,7 @@ python3 test.py
 </div>
 
 ## 🌈 Project Universe
+
 ```ascii
 📦 AI-BILL-GENERATOR
  ┣ 🚀 CheckoutUI/
@@ -79,6 +86,7 @@ python3 test.py
 ```
 
 ## 🎨 Features Gallery
+
 <div align="center">
 
 | 🚀 Feature | ⭐ Description |
@@ -92,6 +100,7 @@ python3 test.py
 </div>
 
 ## 🌟 Requirements
+
 <div align="center">
 
 ```javascript
@@ -109,6 +118,7 @@ python3 test.py
 </div>
 
 ## 🎮 Command Center
+
 <div align="center">
 
 ```ascii
@@ -123,6 +133,7 @@ python3 test.py
 </div>
 
 ## 🌈 Contribution Galaxy
+
 <div align="center">
 
 ```mermaid
@@ -136,16 +147,21 @@ graph TD
 
 </div>
 
+
+
 <div align="center">
 
 ## 🌠 Connect with Creator
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=A275E3)](https://github.com/zazbhai)
 [![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white&color=A275E3)](https://t.me/Zazbhai)
 
 </div>
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="waves"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=A275E3&center=true&vCenter=true&width=435&lines=Made+with+%F0%9F%92%9C+by+Team+Z;Star+%E2%AD%90+if+you+like+it;Fork+%F0%9F%94%A8+to+contribute" alt="Footer" />
+
 </div>
