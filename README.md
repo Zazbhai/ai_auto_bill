@@ -151,29 +151,14 @@ graph TD
 
 </div>
 
-## 👨‍💻 Creator's Corner
 
-<div align="center">
-
-```ascii
- ________  ________  ________  ________  ___  ___  ________  ___  _____ ______      
-|\   __  \|\   __  \|\   __  \|\   __  \|\  \|\  \|\   __  \|\  \|\   _ \  _   \    
-\ \  \|\ /\ \  \|\  \ \  \|\  \ \  \|\ /\ \  \\\  \ \  \|\  \ \  \ \  \\\__\ \  \   
- \ \   __  \ \   __  \ \   __  \ \   __  \ \   __  \ \   __  \ \  \ \  \\|__| \  \  
-  \ \  \|\  \ \  \ \  \ \  \ \  \ \  \|\  \ \  \ \  \ \  \ \  \ \  \ \  \    \ \  \ 
-   \ \_______\ \__\ \__\ \__\ \__\ \_______\ \__\ \__\ \__\ \__\ \__\ \__\    \ \__\
-    \|_______|\|__|\|__|\|__|\|__|\|_______|\|__|\|__|\|__|\|__|\|__|\|__|     \|__|
-```
-
-</div>
 
 <div align="center">
 
 ## 🌠 Connect with Creator
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=A275E3)](https://github.com/zazbhai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=A275E3)](https://linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=A275E3)](https://twitter.com/)
+[![Telegram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=A275E3)](https://t.me/Zazbhai)
 
 </div>
 
