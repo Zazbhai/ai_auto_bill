@@ -99,7 +99,6 @@ python3 test.py
 | 🤖 AI Processing | Smart data extraction |
 | 📊 Analytics | Detailed insights |
 | 🔄 Auto Sync | Cloud integration |
-| 🎯 Accuracy | 99.9% precision |
 | 🔐 Security | Enterprise-grade |
 
 </div>
@@ -114,7 +113,7 @@ python3 test.py
     "node": ">=14.0.0",
     "python": ">=3.8.0",
     "opencv": "latest",
-    "yolo": "latest",
+    "ultralytics": "latest",
     "enthusiasm": "∞"
   }
 }
