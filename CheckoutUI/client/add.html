@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Create New Product</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <hr>
+        <h1>Create New Product</h1>
+        <hr>
+        <form action="http://localhost:3000/product" method="POST">
+            <div class="form-group">
+                <label>ID</label>
+                <input class="form-control" name="id">
+            </div>
+
+            <div class="form-group">
+                <label>Name</label>
+                <input class="form-control" name="name">
+            </div>
+
+            <div class="form-group">
+                <label>Price</label>
+                <input type="number" class="form-control" name="price" id="price">
+            </div>
+
+            <div class="form-group">
+                <label>Unit</label>
+                <input class="form-control" name="unit">
+            </div>
+
+            <div class="form-group">
+                <label>Unit Taken</label>
+                <input type="number" class="form-control" name="taken" id="taken" oninput="calculatePayable()">
+            </div>
+
+            <div class="form-group">
+                <label>Payable</label>
+                <input type="number" class="form-control" name="payable" id="payable" readonly>
+            </div>
+
+            <button type="submit" class="btn btn-primary" onsubmit="back()">Submit</button>
+        </form>
+    </div>
+</body>
+
+<script>
+    function back() {
+        window.location.href = 'https://assettracker.cf/checkout/addBook.html';
+    }
+
+    function calculatePayable() {
+        let price = parseFloat(document.getElementById("price").value) || 0;
+        let taken = parseFloat(document.getElementById("taken").value) || 0;
+        document.getElementById("payable").value = price * taken;
+    }
+</script>
+
+</html>

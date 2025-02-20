@@ -1,0 +1,23 @@
+{
+    "name": "automatic-billing",
+    "version": "1.0.0",
+    "description": "Automated Billing",
+    "main": "server.js",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.21.2",
+        "mongodb": "^4.1.0",
+        "mongoose": "^8.10.0",
+        "socket.io": "^4.8.1"
+    },
+    "engines": {
+        "node": "16.x"
+    },
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "Shebin Jose Jacob",
+    "license": "ISC"
+}
